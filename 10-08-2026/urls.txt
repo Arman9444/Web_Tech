@@ -1,0 +1,9 @@
+https://www.google.com
+https://httpstat.us/200
+https://httpstat.us/404
+https://httpstat.us/500
+https://httpstat.us/301
+https://example.com
+https://this-domain-does-not-exist-abcxyz123.com
+https://www.google.com/thispagedoesnotexist12345
+https://arman.com
